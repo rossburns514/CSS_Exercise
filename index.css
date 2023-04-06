@@ -1,11 +1,11 @@
 .nav-link {
   color: orange;
   text-decoration: none;
-}
+}  /* CSS CLASS SELECTOR */
 
 .d-inline {
   display: inline;
-}
+} /* CSS CLASS SELECTOR */
 
 main {
   max-width: 600px;
@@ -13,31 +13,33 @@ main {
   margin-bottom: 44px;
   margin-left: auto;
   margin-right: auto;
-}
+} /* CSS ELEMENT SELECTOR */
 
 section {
   margin-top: 44px;
   margin-bottom: 44px;
   border: 3px dotted orange;
   padding: 16px;
-}
+} /* CSS ELEMENT SELECTOR */
 
 #title {
   font-size: 40px;
   font-weight: 800px;
-}
+} /* CSS ID SELECTOR */
 
 nav ul {
   list-style: none;
-}
+} /* CSS COMBINATION->DESCENDANT SELECTOR */
 
 body {
   background-color: #222222;
   color: #eeeeee;
-}
+} /* CSS ELEMENT SELECTOR */
 
 #avatar {
   max-width: 100px;
   margin-left: auto;
   margin-right: auto;
-}
+  margin-top: 32px;
+  margin-bottom: 32px;
+} /* CSS ID SELECTOR */
